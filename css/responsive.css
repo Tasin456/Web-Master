@@ -1,0 +1,50 @@
+@media  screen and (max-width:700px ) {
+
+
+    header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .head{
+        height: 20vh;
+       
+    }
+   
+    .logo{
+        height: 8vh;
+       
+    }
+
+    .nav ul li{
+        display: block;
+        margin: auto;
+        flex-direction: row;
+
+    }
+    
+    .skills{
+        display: grid;
+        
+    }
+    .projects{
+        display: grid;
+    }
+    .projects1{
+        display: grid;
+    }
+    .hi{
+        display: grid;
+    }
+    .footer{
+        display: grid;
+    }
+    
+    .quick{
+        margin-top: 3vh;
+    }
+    .new{
+        margin-top: 3vh;
+    }
+}
